@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2534fbae-81cc-4fc2-89ec-af8c849d86c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="02_advanced" />
+  </component>
+  <component name="ProjectId" id="1ZwUcrSAzu4TP9b47QvF7GhZgWa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/13_StreamAndMethodReference" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Demo01Recurison">
+    <configuration name="Demo01ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo07.Lambda.Demo01ArrayList" />
+      <module name="07_ThreadAndLambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo07.Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01Recurison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo02.Recursion.Demo01Recurison" />
+      <module name="08_FileAndRecursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo02.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo06.Thread.Demo01Thread" />
+      <module name="05_ExceptionAndThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo06.Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo03Filter.Demo02Filter" />
+      <module name="08_FileAndRecursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo03Filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DouDiZhu (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo06.Test.DouDiZhu" />
+      <module name="04_Map" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo06.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo01Recurison" />
+        <item itemvalue="Application.Demo02Filter" />
+        <item itemvalue="Application.Demo01ArrayList" />
+        <item itemvalue="Application.Demo01Thread" />
+        <item itemvalue="Application.DouDiZhu (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2534fbae-81cc-4fc2-89ec-af8c849d86c5" name="Default Changelist" comment="" />
+      <created>1585749732906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585749732906</updated>
+      <workItem from="1585749737667" duration="3367000" />
+      <workItem from="1585756060985" duration="26000" />
+      <workItem from="1585801935554" duration="5918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="30" key="#Project_Structure" timestamp="1585750024019">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="30" key="#Project_Structure/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1585750024019" />
+    <state x="1881" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585750330744">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1881" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585750330744" />
+    <state x="463" y="61" key="FileChooserDialogImpl" timestamp="1585750017557">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="61" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1585750017557" />
+    <state width="1323" height="280" key="GridCell.Tab.0.bottom" timestamp="1585754986812">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1585751075272" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585751016941" />
+    <state width="1323" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585754986812" />
+    <state width="1323" height="280" key="GridCell.Tab.0.center" timestamp="1585754986811">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1585751075272" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585751016941" />
+    <state width="1323" height="280" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585754986811" />
+    <state width="1323" height="280" key="GridCell.Tab.0.left" timestamp="1585754986810">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1585751075272" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585751016941" />
+    <state width="1323" height="280" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585754986810" />
+    <state width="1323" height="280" key="GridCell.Tab.0.right" timestamp="1585754986811">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1585751075272" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585751016941" />
+    <state width="1323" height="280" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585754986811" />
+    <state x="323" y="72" width="761" height="593" key="NewModule_or_Project.wizard" timestamp="1585750020532">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="323" y="72" width="761" height="593" key="NewModule_or_Project.wizard/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1585750020532" />
+    <state x="186" y="14" key="SettingsEditor" timestamp="1585803390312">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="14" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1585803390312" />
+    <state x="601" y="246" key="new project wizard" timestamp="1585753221628">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="58" y="0" key="new project wizard/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1585749971968" />
+    <state x="601" y="246" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1585753221628" />
+  </component>
+</project>

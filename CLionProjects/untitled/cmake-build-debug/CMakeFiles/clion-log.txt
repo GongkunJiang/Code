@@ -1,0 +1,4 @@
+C:\Users\j1193\.CLion2019.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/JetBrains/cygwin64/bin/make.exe -DCMAKE_C_COMPILER=D:/JetBrains/cygwin64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/JetBrains/cygwin64/bin/g++.exe -G "CodeBlocks - Unix Makefiles" /cygdrive/e/TyiDrive/Code/CLionProjects/untitled
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/e/TyiDrive/Code/CLionProjects/untitled/cmake-build-debug
